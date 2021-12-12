@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: English covid data
+title: Alistair Haimes
 email: AlistairHaimes@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Key English covid data, from UKHSA and Zoe
 #baseurl: "/covid-pages" # the subpath of your site, e.g. /blog
-url: "https://alistairhaimes.github.io/covid-pages" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: AlistairHaimes
 github_username:  AlistairHaimes
 

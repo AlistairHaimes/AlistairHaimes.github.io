@@ -1,3 +1,3 @@
 coming soon
 
-[Key English covid data](/covid-pages)
+[Key English covid data](https://alistairhaimes.github.io/covid-england)
