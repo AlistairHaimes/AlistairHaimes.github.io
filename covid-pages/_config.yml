@@ -29,7 +29,16 @@ github_username:  AlistairHaimes
 
 # Build settings
 #theme: minima
-theme: jekyll-theme-minimal
+remote_theme: jekyll/minima
+minima:
+  skin: classic
+  # skin: dark
+  # skin: solarized-dark
+  date_format: "%a, %b %-d, %Y (week %V)"
+  social_links:
+    twitter: AlistairHaimes
+    github: AlistairHaimes
+    
 plugins:
   - jekyll-feed
 
