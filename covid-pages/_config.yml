@@ -28,7 +28,7 @@ twitter_username: AlistairHaimes
 github_username:  AlistairHaimes
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
